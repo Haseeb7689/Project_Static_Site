@@ -24,3 +24,39 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+@keyframes borderSnake {
+  0% {
+    background-position: 0% 0%;
+  }
+  100% {
+    background-position: 200% 0%;
+  }
+}
+
+.snake-border {
+  border: 3px solid transparent;
+  background-image: linear-gradient(
+    to right,
+    #2563eb 25%,
+    transparent 25%,
+    transparent 50%,
+    #2563eb 50%,
+    #2563eb 75%,
+    transparent 75%,
+    transparent
+  );
+  background-size: 200% 100%;
+  background-repeat: repeat-x;
+  animation: borderSnake 4s linear infinite;
+  border-radius: 0.5rem; /* match rounded */
+  position: relative;
+  padding: 3px; /* border width */
+}
+
+.snake-border > .content {
+  background-color: white;
+  border-radius: 0.5rem;
+  height: 100%;
+  width: 100%;
+}

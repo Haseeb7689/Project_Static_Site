@@ -1,0 +1,71 @@
+{
+  "home_title": "Mujahid Jazzcash & Easypaisa Shop",
+  "home_description": "Your trusted partner for all your Jazzcash, Easypaisa, gas billing, easyload & e sahulat needs.",
+  "about_title": "About Us",
+  "about_text": "Mujahid Jazzcash and Easypaisa Shop has been proudly serving the community for years. Our mission is to provide fast, secure, and reliable financial and billing services to make your life easier. Whether it's money transfers, bill payments, or mobile recharges, we are your trusted partner.",
+  "services_title": "Our Services",
+  "services": {
+    "gas_billing_title": "Gas Billing",
+    "gas_billing_description": "Pay your gas bills quickly and securely with us.",
+    "easypaisa_jazzcash_title": "Easypaisa & Jazzcash Transfer",
+    "easypaisa_jazzcash_description": "Instant money transfers through Easypaisa & Jazzcash.",
+    "easyload_title": "Easyload",
+    "easyload_description": "Recharge your mobile balance with easyload services.",
+    "e_sahulat_title": "E Sahulat",
+    "e_sahulat_description": "Access multiple government and utility payments easily."
+  },
+  "faqs_title": "FAQs",
+  "faqs": {
+    "working_hours": {
+      "question": "What are your working hours?",
+      "answer": "We are open from 9 AM to 9 PM, Monday to Saturday."
+    },
+    "shop_location": {
+      "question": "Where is your shop located?",
+      "answer": "Our shop is located in Perowal Main Adda, you can visit us anytime during working hours."
+    },
+    "service_charge": {
+      "question": "Is there any service charge for transactions?",
+      "answer": "We charge minimal fees, please contact us for detailed info."
+    },
+    "contact": {
+      "question": "How can I contact you?",
+      "answer": "Call or WhatsApp us at 0307-7733622 for any inquiries."
+    },
+    "online_payments": {
+      "question": "Do you offer online payments?",
+      "answer": "Yes, you can pay via Easypaisa and Jazzcash online wallets."
+    },
+    "receipt": {
+      "question": "Can I get a receipt for every transaction?",
+      "answer": "Absolutely, receipts are provided for all payments and transfers."
+    },
+    "weekend_service": {
+      "question": "Are your services available on weekends?",
+      "answer": "We are closed on Sundays but open from Monday to Saturday."
+    },
+    "data_safety": {
+      "question": "Is my personal information safe with you?",
+      "answer": "Yes, we follow strict privacy policies to ensure your data is secure."
+    }
+  },
+
+  "more": {
+    "showMore": "Show More ({{count}})",
+    "showLess": "Show Less"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "faqs": "FAQs",
+    "contact": "Contact"
+  },
+
+  "contact_title": "Contact Us",
+  "contact_shop": "Mujahid Jazzcash and Easypaisa Shop",
+  "contact_phone": "Phone: 0307-7733622",
+  "contact_whatsapp": "Contact on WhatsApp",
+  "whatsapp": "WhatsApp Us",
+  "footer_text": "© {{year}} Mujahid Jazzcash and Easypaisa Shop | Contact: 0307-7733622"
+}
